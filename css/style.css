@@ -147,8 +147,29 @@ a.btn.dark:focus {
     font-weight: ;
 }
 
-section{
-    border: 1px solid black;
+.gray{
+    background-color: #F6F6F6;
+}
+
+.black{
+    color: black;
+}
+
+.h2-last-section{
+    background-image: url(../img/stars.svg) ;
+    background-size: cover;
+    margin-bottom: 2em;
+}
+
+.btn.big.btn-last-section{
+    background-color: #8EA1E1;
+    color: white;
+}
+
+footer{
+    height: 500px;
+    width: 100%;
+    background-color: #23272A;
 }
 
 
