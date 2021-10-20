@@ -184,6 +184,32 @@ footer .container-footer div{
 
 .logo-ita{
     width: 1.5em;
+    margin-top: 1.5em;
+}
+
+.box-social li{
+    display: inline;
+}
+
+.social{
+    margin-right: 1em;
+}
+
+form{
+    display: inline;
+}
+
+select{
+    background-color: transparent;
+    color: white;
+}
+
+option{
+    color: black;
+}
+
+ul li > i{
+    display: inline;
 }
 
 .container-footer{
