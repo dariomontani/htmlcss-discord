@@ -167,10 +167,17 @@ a.btn.dark:focus {
 }
 
 footer{
-    width: 100%;
     background-color: #23272A;
     color: white;
     line-height: 2em;
+}
+
+.title-footer{
+    color: #7086D6;
+}
+
+.logo-ita{
+    width: 1.5em;
 }
 
 .container-footer{
