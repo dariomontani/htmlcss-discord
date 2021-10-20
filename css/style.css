@@ -166,10 +166,16 @@ a.btn.dark:focus {
     color: white;
 }
 
+/* footer */
 footer{
     background-color: #23272A;
     color: white;
     line-height: 2em;
+}
+
+footer .container-footer div{
+    margin: 4em auto;
+    width: calc(80% / 5);
 }
 
 .title-footer{
@@ -185,15 +191,34 @@ footer{
     margin: 0 auto;
 }
 
-footer div{
-    float: left;
+.container-footer div:first-child{
+    margin-right: 10em;
+}
 
+footer .il-tuo-posto{
+    float: left;
 }
 
 footer div li{
     list-style-type: none;
 }
 
+hr{
+    color: #7086D6;
+}
+
+.last-img{
+    float: left;
+}
+
+.last-button{
+    float: right;
+}
+
+.last{
+    padding-top: 5em;
+    padding-bottom: 10em;
+}
 
 
 
