@@ -155,6 +155,10 @@ a.btn.dark:focus {
     color: black;
 }
 
+.img-last-section{
+    width: 100%;
+}
+
 .h2-last-section{
     background-image: url(../img/stars.svg) ;
     background-size: cover;
