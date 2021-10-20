@@ -215,7 +215,14 @@ hr{
     float: right;
 }
 
+hr{
+    width: 80%;
+    margin: auto;
+}
+
 .last{
+    width: 80%;
+    margin: auto;
     padding-top: 5em;
     padding-bottom: 10em;
 }
