@@ -124,3 +124,37 @@ a.btn.dark:active,
 a.btn.dark:focus {
     color: #265ee8;
 }
+
+.img-section-float,
+.text-section-float{
+    margin: 5em;
+    width: calc(50% - 10em);
+    float: left;
+}
+
+.box-section-float{
+    width: 90%;
+    margin: auto;
+}
+
+.text-section-float h1{
+    font-size: xx-large;
+    line-height: 1.2em;
+    margin-bottom: 0.5em;
+}
+
+.text-section-float p{
+    font-weight: ;
+}
+
+section{
+    border: 1px solid black;
+}
+
+
+
+
+
+
+
+
