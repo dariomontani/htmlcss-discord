@@ -167,10 +167,26 @@ a.btn.dark:focus {
 }
 
 footer{
-    height: 500px;
     width: 100%;
     background-color: #23272A;
+    color: white;
+    line-height: 2em;
 }
+
+.container-footer{
+    width: 80%;
+    margin: 0 auto;
+}
+
+footer div{
+    float: left;
+
+}
+
+footer div li{
+    list-style-type: none;
+}
+
 
 
 
